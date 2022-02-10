@@ -26,6 +26,10 @@ DataBase :
 ![MariaDB](https://img.shields.io/badge/MariaDB-%2343853D.svg?style=for-the-badge&logo=mariadbgoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2343853D.svg?style=for-the-badge&logo=sql&logoColor=white)
 
+Framework :
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%2343853D.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Symfony](https://img.shields.io/badge/Symfony-%2343853D.svg?style=for-the-badge&logo=symfony&logoColor=white)
+
 IDEs/Editors :
 
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
