@@ -6,8 +6,6 @@
 
 I’m currently learning WEB & WEB MOBILE DEVELOPEMENT at [GRETA] (https://www.greta-92.fr/1-accueil)
 
-I’m looking for an internship from 14th February 2022 to 06 May 2022
-
 Programming Languages :
 
 FrontEnd :
