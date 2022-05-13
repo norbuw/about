@@ -29,6 +29,9 @@ Framework :
 
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%2343853D.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![Symfony](https://img.shields.io/badge/Symfony-%2343853D.svg?style=for-the-badge&logo=symfony&logoColor=white)
+  
+Content Management System :
+ ![WordPress](https://img.shields.io/badge/WordPress-%2343853D.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
 IDEs/Editors :
 
