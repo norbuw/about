@@ -4,7 +4,8 @@
 [MY PORTFOLIO](https://norbuw.github.io)
 
 
-I’m currently learning WEB & WEB MOBILE DEVELOPEMENT at [GRETA] (https://www.greta-92.fr/1-accueil). Will finish the school by 17th June 2022.
+I’m currently learning WEB & WEB MOBILE DEVELOPEMENT at [GRETA] (https://www.greta-92.fr/1-accueil). 
+Will finish the school by 17th June 2022.
 
 Programming Languages :
 
