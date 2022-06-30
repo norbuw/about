@@ -21,8 +21,8 @@ BackEnd :
 
 DataBase : 
 
-![MariaDB](https://img.shields.io/badge/MariaDB-%2343853D.svg?style=for-the-badge&logo=mariadbgoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2343853D.svg?style=for-the-badge&logo=sql&logoColor=white)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-%2343853D.svg?style=for-the-badge&logo=mariadbgoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-%2343853D.svg?style=for-the-badge&logo=sql&logoColor=white)
 
 Framework :
 
@@ -32,15 +32,20 @@ Framework :
 Content Management System :
 
  ![WordPress](https://img.shields.io/badge/WordPress-%2343853D.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+ 
+Design and Prototype :
+ 
+ ![Figma](https://img.shields.io/badge/Figma-%2343853D.svg?style=for-the-badge&logo=figma&logoColor=white)
+ ![Adobe XD](https://img.shields.io/badge/Adobexd-%2343853D.svg?style=for-the-badge&logo=adobexd&logoColor=white)
 
 IDEs/Editors :
 
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+ ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 Operating System :
 
-![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+ ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 Certificate from Sololearn :
 
