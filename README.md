@@ -4,8 +4,7 @@
 [MY PORTFOLIO](https://norbuw.github.io)
 
 
-I’m currently learning WEB & WEB MOBILE DEVELOPEMENT at [GRETA] (https://www.greta-92.fr/1-accueil). 
-I will finish school by 17th June 2022.
+Born in Tibet, raised as a stateless in India, a refugee in France, and currently a French citizen living in Paris. Love creating beautiful web experiences focused on simplicity and purpose on the internet and in life.
 
 Programming Languages :
 
